@@ -1,0 +1,143 @@
+
+=== Pipeline run 2026-11-16 14:13 ===
+[1/5] Discovery (search): skipped (add --discover to run)
+[2/5] Web scraping (robots.txt-aware) ...
+   status
+   ok                   151
+   blocked_by_robots     43
+   unreachable           17
+   Name: count, dtype: int64
+   with email: 95 | with linkedin: 31
+[2/5] Web scraping (robots.txt-aware): done in 389s
+[3/5] AI extraction ...
+   Using: OpenAI gpt-4o-mini
+   To process: 60
+   [1/60] allpress.com -> ok
+   [2/60] specialitycoffeeonline.com -> ok
+   [3/60] virtuoso-coffee.com -> ok
+   [4/60] kohikobo.co.jp -> ok
+   [5/60] fuglencoffee.jp -> ok
+   [6/60] unlimitedcoffeeroasters.com -> ok
+   [7/60] wataru.co.jp -> ok
+   [8/60] coffee-rocket.jp -> ok
+   [9/60] minamo-trading.com -> ok
+   [10/60] union-coffee.com -> ok
+   [11/60] mu.coffee -> ok
+   [12/60] postcoffee.co -> ok
+   [13/60] wespacecoffee.com -> ok
+   [14/60] hyuga.coffee -> ok
+   [15/60] marginwork.com -> ok
+   [16/60] bucklecoffee.jp -> ok
+   [17/60] keycoffee.co.jp -> ok
+   [18/60] kazuki-coffee.jp -> ok
+   [19/60] revere-coffee.com -> ok
+   [20/60] imom.co.jp -> ok
+   [21/60] puntalto.com -> ok
+   [22/60] beanique.kr -> ok
+   [23/60] cafesupplychain.com -> ok
+   [24/60] beanintheshop.com -> ok
+   [25/60] inyoulai.com -> ok
+   [26/60] fscoffee.co.kr -> ok
+   [27/60] ethicocoffee.com -> ok
+   [28/60] unityspecialtycoffees.com -> ok
+   [29/60] balzacbrothers.com -> ok
+   [30/60] rossocoffeeroasters.com -> ok
+   [31/60] detourcoffee.com -> ok
+   [32/60] uplevelcoffeeroaster.ca -> ok
+   [33/60] muskokaroastery.com -> ok
+   [34/60] caffeumbria.ca -> ok
+   [35/60] espressovibe.ca -> ok
+   [36/60] kokoquest.com -> ok
+   [37/60] ozocoffee.com -> ok
+   [38/60] luckygoatcoffee.com -> ok
+   [39/60] pavementroast.com -> ok
+   [40/60] theblindcoffeeroaster.com.au -> ok
+   [41/60] griffithsbros.com.au -> ok
+   [42/60] regionalroastingco.com.au -> ok
+   [43/60] industrybeans.com -> ok
+   [44/60] stali.com.au -> ok
+   [45/60] bada-bean.com -> ok
+   [46/60] smittencoffee.com -> ok
+   [47/60] cowpressocoffee.sg -> ok
+   [48/60] libertycoffee.sg -> ok
+   [49/60] coffeeselection.com -> ok
+   [50/60] hautecoffeeroasters.com -> ok
+   [51/60] aurocoffee.com -> ok
+   [52/60] lmtd.coffee -> ok
+   [53/60] gsotrading.ae -> ok
+   [54/60] jeddahnight.com -> ok
+   [55/60] caffeinelab.me -> ok
+   [56/60] merakiartisan.com -> ok
+   [57/60] lumirascoffee.com -> ok
+   [58/60] zeenithcoffee.com -> ok
+   [59/60] fairconnectioncoffeetrading.com -> ok
+   [60/60] gocoffee.ae -> ok
+[3/5] AI extraction: done in 565s
+[4/5] Dedup + scoring + Excel ...
+   After AI filter: 127
+   Dedup removed 1 records
+   USA & Canada: have 25 / need 25
+   Europe: have 23 / need 30
+   Japan & South Korea: have 15 / need 15
+   UAE & GCC: have 15 / need 15
+   Australia & Singapore: have 15 / need 15
+   Saved OrchardGate_Buyers.xlsx with 93 rows
+   Priority
+   B    54
+   C    26
+   A    13
+   Name: count, dtype: int64
+[4/5] Dedup + scoring + Excel: done in 2s
+[5/5] Outreach drafts ...
+   drafted: Attesa Coffee
+   drafted: Lumiras Coffee
+   drafted: Royal Coffee, Inc.
+   drafted: Bijdendijk B.V.
+   drafted: InterAmerican Coffee
+   Saved outreach_drafts.xlsx with 5 drafts
+[5/5] Outreach drafts: done in 37s
+=== Pipeline complete: OrchardGate_Buyers.xlsx, outreach_drafts.xlsx, pipeline_log.txt ===
+
+=== Pipeline run 2026-11-16 23:29 ===
+[1/5] Discovery (search): skipped (add --discover to run)
+[2/5] Web scraping (robots.txt-aware) ...
+   status
+   ok                   161
+   blocked_by_robots     42
+   unreachable            8
+   Name: count, dtype: int64
+   with email: 104 | with linkedin: 36
+[2/5] Web scraping (robots.txt-aware): done in 30168s
+[3/5] AI extraction ...
+   Using: OpenAI gpt-4o-mini
+   To process: 1
+      OpenAI error: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NameResolutionError("HTTPSConnect
+      OpenAI error: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NameResolutionError("HTTPSConnect
+      OpenAI error: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NameResolutionError("HTTPSConnect
+   [1/1] beanscoffeeroaster.com -> FAILED (not saved, will retry next run)
+[3/5] AI extraction: done in 11684s
+[4/5] Dedup + scoring + Excel ...
+   After AI filter: 127
+   Dedup removed 1 records
+   USA & Canada: have 25 / need 25
+   Europe: have 23 / need 30
+   Japan & South Korea: have 15 / need 15
+   UAE & GCC: have 15 / need 15
+   Australia & Singapore: have 15 / need 15
+   Saved OrchardGate_Buyers.xlsx with 93 rows
+   Priority
+   B    54
+   C    26
+   A    13
+   Name: count, dtype: int64
+[4/5] Dedup + scoring + Excel: done in 2s
+[5/5] Outreach drafts ...
+      OpenAI error: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NameResolutionError("HTTPSConnect
+   drafted: Attesa Coffee
+   drafted: Garbin Coffee Trade
+   drafted: Lumiras Coffee
+   drafted: Royal Coffee, Inc.
+   drafted: Bijdendijk B.V.
+   Saved outreach_drafts.xlsx with 5 drafts
+[5/5] Outreach drafts: done in 42s
+=== Pipeline complete: OrchardGate_Buyers.xlsx, outreach_drafts.xlsx, pipeline_log.txt ===

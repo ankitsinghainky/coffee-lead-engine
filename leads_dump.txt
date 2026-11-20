@@ -1,0 +1,162 @@
+======================================================================
+Company (V): Attesa Coffee
+Market: Europe
+City (AI): Amsterdam
+Country (AI): Netherlands
+Website (V): https://attesacoffee.com
+Buyer category (AI): Green Coffee Importer
+Description (AI summary): Attesa Coffee is a Netherlands-based green coffee importer offering traceable, responsibly sourced specialty coffees from 14 origins, working directly with farmers to serve roasters with samples, contracts, warehousing, and flexible terms.
+Coffee products (AI from site): ["Nicaragua CASCARA REGIONAL Arabica Pacamara Cascara (Natural)", "Brazil Fine Cup 14/16 Santos Arabica Blend (Natural)", "India Attikan Estate Arabica SL795 (Anaerobic Washed)", "India Baba Budan Giri Range Arabica SL795 (Washed)", "Ethiopia Djimmah G5 Arabica Heirloom (Natural)", "Kenya Karatina AB Arabica SL28/Ruiru 11/Batian (Washed)", "Kenya Marumi AB Arabica SL28/Ruiru 11/Batian (Washed)", "Vietnam Screen 18 Clean RFA Robusta Blend (Natural)", "Brazil Fine Cup 17/18 Cerrado Arabica Blend (Natural)", "Peru Regional La Coipa G1 Arabica Blend (Washed)", "Green coffee by the kilo", "Green and roasted samples"]
+Why relevant (AI assumption): Already lists two Indian estate lots (Attikan Estate and Baba Budan Giri Arabica SL795) and features India in its Asia origins, proving active demand for Indian specialty green coffee.
+Decision-maker (V if found): Nishit Tanna
+Designation (V if found): Founder
+Public email (V): hello@attesa.co
+All emails found (V): hello@attesa.co
+LinkedIn (V): https://www.linkedin.com/jobs/view/4357502523; https://www.linkedin.com/company/attesa-coffee/
+Source URL (V): https://attesacoffee.com
+Data flags: nan
+SITE TEXT: Your green coffee partner | Attesa Coffee Looking for green coffee? Discover traceable, freshly harvested coffees from origins across the globe. Explore our coffees Every coffee has a story See where our coffees grow, when they’re harvested, and what makes each region unique. Origins Looking for the right green coffee? Order free samples and find the perfect match for your roastery. Order samples Who we are – and why it matters We’re more than just importers. We work hand in hand with various farms across 14 origins to bring roasters traceable, sustainable, high-quality green coffee. Discover how we source, who we work with, and why transparency drives everything we do. About our approach Need less than a full bag? Order green coffee by the kilo — perfect for home roasters and micro roasteries Shop by KG Lineup for the Roast From standout micro lots to regional blends — every lot in our offer list is carefully selected for quality, character, and consistency. Product Name & Details Score and Sensory profile Status Price(€/KG) Nicaragua - CASCARA REGIONAL Arabica Pacamara Cascara 2026 Natural - Bright acidity, Chamomile tea, Clean, Elegant floral tea, High clarity ... Bright acidity, Chamomile tea, Clean, Elegant floral tea, High clarity, Honey sweetness, Stonefruits, Honey, Mango Bags (kg) Login for Price Brazil - Fine Cup 14/16 Santos Arabica Blend 2026 Natural - Roast almond, Chocolate, Dried plum 70 Bags (60kg) Spot Login for Price India - Attikan Estate Arabica SL795 2026 Anaerobic Washed 85.75 Tangerine, Red current, Mapple syrup, Juicy mouthfeel, Citrus Tea Aftertaste 9 Bags (60kg) Spot Login for Price India - Baba Budan Giri Range Arabica SL795 2026 Washed 85.75 Green apple, Stonefruits, Vanilla, Creamy mouthfeel, Grape Juice Finish 8 Bags (60kg) Spot Login for P
+======================================================================
+Company (V): Garbin Coffee Trade
+Market: Europe
+City (AI): nan
+Country (AI): Italy
+Website (V): https://garbincoffeetrade.it
+Buyer category (AI): Green Coffee Importer
+Description (AI summary): Experts at importing green coffee beans, offering commercial, organic, and specialty microlots.
+Coffee products (AI from site): ["Green Coffee", "Specialty Microlots", "Fair Trade Commercial Coffee"]
+Why relevant (AI assumption): They source specialty-grade coffee, including Kaapi Royale Indian coffee, indicating interest in Indian coffee.
+Decision-maker (V if found): Alessandro Garbin
+Designation (V if found): CEO
+Public email (V): sales@garbincoffeetrade.it
+All emails found (V): sales@garbincoffeetrade.it; info@garbincoffeetrade.it
+LinkedIn (V): Not found
+Source URL (V): https://garbincoffeetrade.it
+Data flags: No LinkedIn link found on site; City missing
+SITE TEXT: Homepage - Garbin Coffee Trade Skip to content Visit our booth at WOC Dubai 0,00 € 0 Cart EN FR DE IT ES Contact Us From Seed to Roast Coffee is our world! What We Do Visit Our Shop Discover Our Products Green Coffee We’re experts at importing green coffee beans, whether you want organic, Fair Trade commercial coffee, or specialty microlots. Start Exploring Consultancy We provide expert consulting services to help you grow your coffee business, including quality evaluations, green coffee analysis, and sourcing. Get In Touch Roasting Equipment We offer equipment ranging from individual roasters and lab equipment to packaging machines and turnkey plants. Visit IMF Meet The Garbin Family At Alessandro Garbin s.r.l., we’ve been importing green coffee beans for over 100 years. We know where to find the best coffee, how to test its quality, and how roasting can highlight its distinctive flavour notes. That’s why we also offer turnkey roasting plants, roasters, laboratory equipment, and consultation services. We know how important the journey from seed to roast is – and will help you bring out the best of your coffee. Discover Our Story Contact the Garbin Team Our Coffee Origins We specialise in importing green coffee from the very best origins in the world. No matter your target market, we can offer commercial, organic, or specialty green coffee that suits your customers. Africa Central America South America Asia Burundi This is a short description about this specific country. Maybe the coffee profile? Name of main coffee regions? Explore region Burundi This is a short description about this specific country. Maybe the coffee profile? Name of main coffee regions? Explore region Cameroon This is a short description about this specific country. Maybe the coffee profile? Name of
+======================================================================
+Company (V): Bijdendijk B.V.
+Market: Europe
+City (AI): Nunspeet
+Country (AI): Netherlands
+Website (V): https://www.bijdendijk.nl
+Buyer category (AI): Green Coffee Importer
+Description (AI summary): Dutch green coffee importer and exporter trading since 1843, based in Nunspeet. Inspects each batch for smell, color and taste, offers many origins including India, and delivers tailor-made solutions worldwide.
+Coffee products (AI from site): ["green coffee", "coffee beans"]
+Why relevant (AI assumption): They explicitly offer 'Coffee from India' and list India among origins they purchase, inspecting each batch for smell, color and taste, so they already buy Indian green coffee.
+Decision-maker (V if found): Mark Bouw
+Designation (V if found): Managing Director
+Public email (V): info@bijdendijk.nl
+All emails found (V): info@bijdendijk.nl
+LinkedIn (V): Not found
+Source URL (V): https://www.bijdendijk.nl
+Data flags: No LinkedIn link found on site
+SITE TEXT: Home - Bijdendijk koffie import & export Menu YOUR PARTNER IN GREEN COFFEE SINCE 1843 About Bijdendijk OUR CERTIFICATIONS Phone number +31 (0) 341 370371 Email info@bijdendijk.nl Address office Bijdendijk B.V. Laan 57 8071 JH Nunspeet BIJDENDIJK COFFEE IMPORT & EXPORT The history of Bijdendijk goes back to 1843 when the Bijdendijk family started trading green coffee and tea. Since 1970 Bijdendijk is no longer owned by the Bijdendijk family but Bijdendijk became a well know name in the coffee industry, hence Bijdendijk has been kept as company name. Bijdendijk has established strong relationships with suppliers and customers. Bijdendijk is adding value by providing our customers with our knowledge and experience about our coffees, we strive for accurate execution of our contracts and we deliver tailor-made solutions for our customers. BUY COFFEE OUR STORY BIJDENDIJK COFFEE ORIGINS Bijdendijk is a relatively small, but strong player within the coffee industry. Bijdendijk has obtained this position through an excellent reputation with both customers and suppliers. Bijdendijk only makes a purchase or a sale after each batch has been inspected by our quality department for smell, color and taste by means of a sample and is tested according to the international standards for green coffee. We are offering many origins such as Brasil, Colombia, Ethiopia, Guatemala, Honduras, India, Peru, Kenya, Vietnam and many more. Coffee origins Offer list World of Coffee Geneva Location: Geneva Date: 26/06/2025 - 28/06/2025 Click Here AFCA Dar Es Salaam (African Fine Coffee Association) Location: Tanzania | Date: 26/02/2025 - 28/02/2025 Click Here The Amsterdam Coffee Festival 2025 Location: Amsterdam, Netherlands | Date: 03/04/2025 - 05/04/2025 Click Here Tuttofood Milano Location: Milan, 
+======================================================================
+Company (V): Royal Coffee, Inc.
+Market: USA & Canada
+City (AI): Emeryville
+Country (AI): USA
+Website (V): https://royalcoffee.com
+Buyer category (AI): Green Coffee Importer
+Description (AI summary): Royal Coffee is a US green coffee importer and wholesaler since 1978, sourcing specialty green coffee beans from over 30 countries, offering warehousing, consulting, grading and roasting instruction to roasting houses.
+Coffee products (AI from site): ["Green coffee beans", "Crown Jewels", "Royal Gems", "Spot coffees", "Royal Gem Holiday Blend", "Crown Jewel Sample Club"]
+Why relevant (AI assumption): India is listed among their Asia Pacific origins; they import from 30+ countries since 1978 and supply roasting houses.
+Decision-maker (V if found): nan
+Designation (V if found): nan
+Public email (V): info@royalcoffee.com
+All emails found (V): info@royalcoffee.com; peter@royalcoffee.com; press@royalcoffee.com
+LinkedIn (V): Not found
+Source URL (V): https://royalcoffee.com
+Data flags: Decision-maker not found; No LinkedIn link found on site
+SITE TEXT: Royal Coffee | Green Coffee Bean Suppliers | Wholesale Coffee Skip to content Online promotion: Save $300 per pallet of full-size bags. Ends Nov. 20. | Shop Now. Online promotion: Save $300 per pallet of full-size bags. Ends Nov. 20. | Shop Now. Menu Search Cancel Contact us Login View cart Login Close Home Buy Coffee Buy Coffee All Coffee All Coffee 22lb Crown Jewels 50 lb Royal Gems Staff Picks Crown Jewel Sample Club North & Central America North & Central America Mexico Costa Rica El Salvador Guatemala Hawaii Honduras Jamaica Nicaragua Panama South America South America Bolivia Brazil Colombia Ecuador Peru Asia Pacific Island Asia Pacific Island East Timor India Indonesia Papua New Guinea Sulawesi Sumatra Africa Africa Burundi Ethiopia Kenya Rwanda Tanzania Uganda Yemen Resources The Crown The Crown Development Stage Event Classes & Events Tasting Room Coffee Consulting Services Sourced: the Coffee Podcast Blog About Us About Us Royal Coffee Addis Ababa Get Started Get Started How to Buy Canadian Orders How to use Credit Key Newsletter Sign Up Your Trusted Source for Specialty Green Coffee Beans Premium quality, freshly imported from around the world Premium quality, freshly imported from around the world Shop All Coffee Seasonal Best Sellers $300 Off Every 10 Full Bags Mix any standard-size full bags from all of our North American warehouses. Online only through November 20. No code needed. 10 Bags Save $300 20 Bags Save $600 30 Bags Save $900 Shop Full Bags Sourced globally Importing the finest coffees from over 30 countries since 1978. One-stop Shop We’ve got you covered, from understanding the market and your needs, to coffee grading and roasting instruction. Customer Service From logistics to our tasting room, our team is here to help you. Shop Spot Coffees Exp
+======================================================================
+Company (V): Gulf Coffee Company
+Market: UAE & GCC
+City (AI): Dubai
+Country (AI): United Arab Emirates
+Website (V): https://gulfcoffee.ae
+Buyer category (AI): Specialty Roaster
+Description (AI summary): Gulf Coffee Company specializes in sourcing and delivering high-quality specialty coffee from Africa to the Gulf region.
+Coffee products (AI from site): ["Arabica", "Robusta", "Liberica"]
+Why relevant (AI assumption): They focus on sourcing high-grade specialty coffee, which may include Indian varieties to enhance their offerings.
+Decision-maker (V if found): Justin Plaatjes
+Designation (V if found): Co-Founder
+Public email (V): justin.plaatjes@gulfcoffee.ae
+All emails found (V): justin.plaatjes@gulfcoffee.ae
+LinkedIn (V): https://www.linkedin.com/company/gulf-coffee-company/
+Source URL (V): https://gulfcoffee.ae
+Data flags: India sourcing not confirmed (AI assumption)
+SITE TEXT: Specialty Coffee Beans in the GCC | Gulf Coffee Company en English en English Specialty Coffee Beans Sourcing Africa's finest beans, one cup at a time... Exceptional Coffee, Unmatched Quality At Gulf Coffee Company , we are dedicated to sourcing and delivering the finest specialty coffee from across Africa to the Gulf region. Our journey begins at the sourceâpartnering directly with renowned coffee-growing regions across Africa to bring you beans of exceptional quality, rich flavors, and full traceability. Our Coffee Journey From the highlands of Ethiopia and Uganda to the rich plantations of Kenya, Rwanda, and Tanzania , we meticulously select premium Arabica, Robusta and Liberica that meets the highest standards of excellence. Whether you're a specialty coffee roaster , a high-end cafÃ©, or a hospitality business, we provide access to some of Africaâs finest coffees with seamless logistics and expert curation. Meet the Team Our team comprises of seasoned professionals with a combined 30 years experience covering multiple sectors including agriculture, finance and logistics. Most importantly, we have a passion for GOOD coffee! Justin Plaatjes Shaquil Sutton Co-Founder Co-Founder Co-Founder With over 10 years as an investment professional, Justin handles finance, logistics and risk management Mark's extensive global network allows him to source high quality coffee with incredible consistency Shaq has a lengthy track record in commodity finance and deal origination. He handles trade and operations Mark Akakpo Why work with us? Specialty Arabica, premium Robusta and rare Liberica coffee beans sourced globally with efficient logistics and competitive pricing. Specialty Coffee Sourcing We source high-grade specialty Arabica, premium Robusta and Liberica coffee through a
+======================================================================
+Company (V): Origin Bridge
+Market: Europe
+City (AI): Pereira
+Country (AI): Colombia
+Website (V): https://originbridge.coffee
+Buyer category (AI): Green Coffee Importer
+Description (AI summary): European specialty coffee importer of Colombian green beans, offering spot and forward contracts, microlots and container programs from its Pereira origin team to roasters and volume partners via NL & BE warehouses.
+Coffee products (AI from site): ["Green coffee beans", "Microlots", "Spot coffees", "Forward contracts", "Container programs"]
+Why relevant (AI assumption): They contract harvests directly with producers and supply roasters/buying desks, but text cites only Colombian origins; no India mention, so fit is speculative.
+Decision-maker (V if found): Joram Bennekers
+Designation (V if found): nan
+Public email (V): joram@originbridge.coffee
+All emails found (V): joram@originbridge.coffee; europe@originbridge.coffee; colombia@originbridge.coffee
+LinkedIn (V): Not found
+Source URL (V): https://originbridge.coffee
+Data flags: No LinkedIn link found on site; India sourcing not confirmed (AI assumption)
+SITE TEXT: European Specialty Coffee Importer | Green Beans | Origin Bridge Offer List Forward Coffees Logistics About Contact Skip to content Origin Supply • Forward & Spot Colombian Green Coffee. Secured at Origin. From seasonal microlots to structured container programs. Access EU spot inventory or secure forward volume at origin. View Offer List Secure Forward Volume Unsure what structure fits your volume? Let's talk. Mitaca · April to July 2026 This container: full Forward booking is closed. Afloat now, spot after arrival in NL/BE. Buy afloat Mitaca Cosecha Principal · Sept '26 to Jan '27 78% still open Forward booking is open. Fixed price, before the harvest peaks. Secure forward volume EU stock · NL & BE Immediate release Landed bags. No contract, no vessel. View offer list For Independent Roasters EU spot bags & microlots Small-batch allocations Online trade portal access For Volume Partners Forward contracts Container programs Structured pricing models Direct communication. Clear allocations. Any EU stock quantity. 01 Permanent Origin Presence We operate a permanent origin team in Pereira, contracting harvests directly with producers and managing quality and consolidation at source. 02 Export & EU Consolidation We manage export and international logistics, shipping to our warehouses in the Netherlands & Belgium or directly to client ports worldwide. 03 Pre-Contracted Allocation Roasters pre-contract volume to secure price, quality and allocation. No middlemen, full transparency. We manage the supply chain. You focus on the roast. "Over 80% of our annual volume is pre-contracted before vessel departure. This secures price and allocation ahead of market volatility." Joram Bennekers Origin Intelligence: Market Wires View All Wires → NEWS Colombia's Smaller Harvest: What the 
+======================================================================
+Company (V): Noordpoort Coffee
+Market: Europe
+City (AI): Breda
+Country (AI): The Netherlands
+Website (V): https://www.noordpoort.coffee
+Buyer category (AI): Green Coffee Importer
+Description (AI summary): Green coffee importer headquartered in Breda, The Netherlands, supplying premium commercial to specialty coffees to roasters across Europe, with warehouses in Antwerp and Tallinn, in-house labs, and traceable sourcing from farms worldwide.
+Coffee products (AI from site): ["green coffee", "commercial coffees", "high-commercial coffees", "specialty coffees"]
+Why relevant (AI assumption): Text says they import from 'Brazil, Colombia... Vietnam and more' and work with export partners worldwide, supplying European roasters, so India could fit their multi-origin sourcing.
+Decision-maker (V if found): Alain Jabea
+Designation (V if found): Head of sales
+Public email (V): lauri.pohjalainen@noordpoort.coffee
+All emails found (V): lauri.pohjalainen@noordpoort.coffee; andres.cardenas@noordpoort.coffee; innocen.munno@noordpoort.coffee; coffee@noordpoort.coffee; daniel.weinraub@noordpoort.coffee; addis@noordpoort.coffee; anna.zinkova@noordpoort.coffee; alain.jabea@noordpoort.coffee; specialty@noordpoort.coffee; richard.shannon@noordpoort.coffee; tatiana.ozimuk@noordpoort.coffee; katarina.feldsher@noordpoort.coffee
+LinkedIn (V): https://www.linkedin.com/company/noordpoort-coffee-company/
+Source URL (V): https://www.noordpoort.coffee
+Data flags: India sourcing not confirmed (AI assumption)
+SITE TEXT: Noordpoort Coffee - Specialty Green Coffee Importers Who are we? Noordpoort Coffee, a green coffee importer, headquartered in Breda, The Netherlands, with coffees warehoused in Antwerp, Tallinn, supplying premium coffees to roasters around Europe. Our highly professional and dedicated team, with many years of experience in green coffee trading, roasting and roastery management, are ready to help you source the right coffees for your business. With satellite offices in Helsinki, Finland and Antwerp, Belgium, we look forward to working with likeminded businesses in finding delicious coffees from around the world. Why us Global Network Our team, spread across Europe, is always on hand to help you find the best coffees for your business. Working closely with export partners across the world, the coffees we sell can always be traced back to the source. Independent Thanks to our independent status, our small and flexible company is ready to help you and your business with purchase planning, logistics, roaster-producer relationships and more. Expertise With a team of like-minded coffee people, our broad range of expertise garnered through many years working in the coffee sector is on hand for you, enabling quick response time and minimal decision-making, allowing a very personal approach to our customers. We are here for you. Location We work all over Europe Reliability Guarantee of stable supplies Customer care Always ready to help you Partners © Noordpoort Coffee . All rights reserved. Privacy Policy | About us About us Reasons to choose us Quality In-house monitoring of coffee quality in countries of origin. Multi-stage thorough control at all stages of delivery. Protocol sampling using local laboratories in supplier countries. Labs in Kampala (Uganda), Ho Chi Minh City (Vi
+======================================================================
+Company (V): InterAmerican Coffee
+Market: USA & Canada
+City (AI): Hoboken
+Country (AI): USA
+Website (V): https://interamericancoffee.com
+Buyer category (AI): Green Coffee Importer
+Description (AI summary): InterAmerican Coffee is a specialty green coffee importer, part of Neumann Kaffee Gruppe, with 40 years of supply-chain relationships and offices in Hoboken, Houston, San Diego and Kansas City.
+Coffee products (AI from site): ["Specialty green coffee", "Tanzania coffees", "Guatemala coffees", "Indonesia coffees"]
+Why relevant (AI assumption): Specialty green coffee importer with 'access to... every type of coffee'; team member Neil Barwick has India producing-country experience, suggesting capacity to source Indian Arabica, Robusta or Monsoon Malabar.
+Decision-maker (V if found): Nicolas Rueda Latiff
+Designation (V if found): CEO, Neumann Gruppe USA
+Public email (V): neil.barwick@nkg.coffee
+All emails found (V): neil.barwick@nkg.coffee; lawanda.sandles@nkg.coffee; pablo.lara@nkg.coffee; thomas.silva@nkg.coffee; erika.hernandez@nkg.coffee; christopher.ryu@nkg.coffee; adrianne.burnap@nkg.coffee; ryan.bennett@nkg.coffee; christopher.gonzalez@nkg.coffee; tania.rocha@nkg.coffee; josh.burdett@nkg.coffee; nick.berry@nkg.coffee; craig.olander@nkg.coffee; elvira.castro@nkg.coffee; dana.andrews@nkg.coffee; crystal.reyes@nkg.coffee; edward.kaufmann@nkg.coffee; christopher.bohac@nkg.coffee; krista.gray@nkg.coffee; traders.iacus@nkg.coffee; kayd.whalen@nkg.coffee; arifa.tahmina@nkg.coffee
+LinkedIn (V): https://www.linkedin.com/company/interamerican-coffee
+Source URL (V): https://interamericancoffee.com
+Data flags: nan
+SITE TEXT: InterAmerican Coffee U.S. - Specialty Green Coffee Importer Skip to content Loading... Welcome to InterAmerican Coffee For 40 years, InterAmerican Coffee has nurtured relationships across the supply chain to bring you the coffees you need, want and love. Explore Our Coffees NKG Sustainability Report 2026 Is Now Live! View Report Welcome to InterAmerican Coffee Explore Our Coffees Home corpcommAdmin 2026-09-01T16:52:43+02:00 Specialty Green Coffee Importer Building a Sustainable Future for Coffee As a company of Neumann Kaffee Gruppe — the world’s leading green coffee services group, with farms, mills, import and export companies across 27 countries — we have access to local expertise, critical insights and every type of coffee. Importantly, we’re also part of a global initiative to build a sustainable future for coffee. It’s a critical goal that we can only achieve with your partnership. We invite you to please learn more about it — and to join us! offering list Newsletter Signup News, insights, events and fresh arrivals. One email, once a week. Subscribe! * indicates required Email Address * First Name Last Name Company Please choose the location you're closest to: Hoboken Houston San Diego Kansas City Privacy Policy * Yes, I agree to the privacy policy . Leave this field empty if you're human: News & Events 3. November 2026 Market Update: November 3 The Market Update explores how this week’s news, weather and other factors are shaping the global coffee trade. Strange times, read more 26. October 2026 Don’t Sleep on Tanzania: Exceptional Coffee, Compelling Value Every year, we eagerly await the arrival of our Tanzania inventory. This sometimes-overlooked origin offers vibrant, complex coffees with the read more 12. October 2026 InterAmerican Coffee Moving to Biofuel-Ba
+======================================================================
+Company (V): Leelaprasad International Pvt Ltd
+Market: Europe
+City (AI): nan
+Country (AI): India
+Website (V): https://www.leelaprasadcoffee.com
+Buyer category (AI): Green Coffee Importer
+Description (AI summary): Leading certified Indian coffee exporter, specializing in premium Arabica and Robusta coffee beans.
+Coffee products (AI from site): ["Washed Arabica", "Unwashed Arabica", "Washed Robusta", "Unwashed Robusta", "Roasted Coffee", "Instant Coffee", "Monsooned Malabar", "Mysore Nuggets"]
+Why relevant (AI assumption): They export premium Indian Arabica and Robusta coffee beans, indicating a strong interest in Indian coffee.
+Decision-maker (V if found): Varun Leelaprasad
+Designation (V if found): Founder & Managing Director
+Public email (V): export@leelaprasadcoffee.com
+All emails found (V): export@leelaprasadcoffee.com; info@leelaprasadinternational.com
+LinkedIn (V): https://www.linkedin.com/in/varun-leelaprasad-103065248
+Source URL (V): https://www.leelaprasadcoffee.com
+Data flags: City missing
+SITE TEXT: Indian Coffee Exporter | MOQ 5T | FOB & CIF Worldwide | LIT COFFEE Premium Arabica & Robusta • FOB & CIF Pricing Available • Direct from Indian Estates • Worldwide Export • Premium Arabica & Robusta • FOB & CIF Pricing Available • Direct from Indian Estates • Worldwide Export • Premium Arabica & Robusta • FOB & CIF Pricing Available • Direct from Indian Estates • Worldwide Export • Premium Arabica & Robusta • FOB & CIF Pricing Available • Direct from Indian Estates • Worldwide Export • Home About Us Our Coffee Washed Arabica Unwashed Arabica (Cherry) Washed Robusta Unwashed Robusta (Cherry) Roasted Coffee Instant Coffee Monsooned Malabar Mysore Nuggets EB View All → Export Markets Germany USA UK UAE Saudi Arabia Japan Australia Italy View All → Buyer Guides How to Import Coffee: India to Europe Export Documentation Checklist Pricing Green Coffee for Export MOQ for Coffee Beans FOB, CIF & Freight Explained Green vs Roasted Coffee View All → Blog Shop Retail Packs via Lit Coffee Contact Us Indian Coffee Exporter of Arabica & Robusta Coffee Beans (Lit Coffee) Leading Certified Indian Coffee Exporter, Manufacturer, and Trusted Farmer Network. Exporting premium Indian Arabica and Robusta coffee beans worldwide. Trusted by over 8,000+ clients across 17+ countries. Explore Our Coffee Products Contact Our Export Team Global Reach & Presence 0 + Countries Exporting premium Indian Arabica & Robusta coffee across Asia, Europe, and the Americas. Farmer Network 0 + Farmers Empowering sustainable livelihoods through direct sourcing and fair-trade practices. Client Trust & Certifications 0 + Certifications Trusted worldwide for certified, traceable, and ethically produced Indian coffee. Indian Coffee Beans for Export: Arabica, Robusta, Roasted & Instant Bulk supply from Karnataka. MOQ
